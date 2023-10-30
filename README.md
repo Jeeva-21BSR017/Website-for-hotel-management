@@ -12,7 +12,7 @@
 
 ![booking page](https://github.com/Jeeva-21BSR017/cartrabbit-php-project/assets/125787661/841f2cc3-4e0b-4083-935f-0dbadd1de8d5)
 
-#ManaageUsers
+#ManageUsers
 
 ![manageusers](https://github.com/Jeeva-21BSR017/cartrabbit-php-project/assets/125787661/f4a4c524-4b54-4992-9caf-297d2efd8941)
 
